@@ -1,0 +1,18 @@
+2015 2 10637165018  162068 238818170                                                                                                    0201063600    
+CRPR         EPD 2015 2 1 637 4435                                                    B  89                 Z                                         
+CRPR             2015 2 1 638              619ES                                      B                     N                                         
+HATO         EPC 2015 2 1 637 4447                                                    E 138                 Z                                         
+HATO           C 2015 2 1 638              554ES                                      E                     Z                                         
+AGPR         EPD 2015 2 1 637 4485                                                    B 174                 Z                                         
+AGPR           D 2015 2 1 638              634ES                                      B                     N                                         
+AOPR         EPD 2015 2 1 637 4731                                                    B 114                 Z                                         
+AOPR           D 2015 2 1 638             1205ES                                      B                     N                                         
+NADR         EPC 2015 2 1 637 5091                                                    B 125                 Z                                         
+NADR           D 2015 2 1 638             1404 S                                      B                     N                                         
+SJG          EPC 2015 2 1 637 5365                                                    B 106                 Z                                         
+SJG            D 2015 2 1 638             2237ES                                      B                     N                                         
+ABDR         EPD 2015 2 1 637 5766                                                    B 118                 Z                                         
+ABDR           D 2015 2 1 638             2698 S                                      B                     N                                         
+SC01         EPC 2015 2 1 638   26                                                    B 115                 Z                                         
+SC01           D 2015 2 1 638             3469 S                                      B                     N                                         
+                                                  
