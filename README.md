@@ -8,5 +8,5 @@ Also included is a python script to generate a depth histogram from the sourcesw
 
 
 FUTURE WORK:
-Prompt for user input on Moho depth and source file name output.
+Prompt for user input on Moho depth and input/output filenames.
 Create pick folder for picks. 
