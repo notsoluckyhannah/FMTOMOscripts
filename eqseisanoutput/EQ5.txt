@@ -1,0 +1,13 @@
+ 2013  4 8 0850 29.4 L  19.272 -69.576 46.2  SDD  3 0.2 3.2CSDD                1
+ GAP=232        0.52       4.1     3.4  6.5  0.8260E+01  0.7527E+01  0.1516E+02E
+ 2013  4 8 0850 29.444  19.27200  -69.57577   46.193  0.171                    H
+ ACTION:UP  13-04-15 16:42 OP:rp   STATUS:               ID:20130408085000     I
+ OLDACT:ARG 13-04-08 12:48 OP:isu  STATUS:               ID:20130408085000     3
+ 201304080850.mseed                                                            6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ NADR HZ EP     C 085036.854   42                        144   -0.2310 30.8 287 
+ NADR HZ ES     D 085042.946                             144    0.1310 30.8 287 
+ HATO EZ EP     C 085039.830   91                        125    0.2310 57.4 159 
+ HATO EZ ES     D 085047.076                             125   -0.1310 57.4 159 
+ BANI EZ ES     C 0851 5.676                             103    0.00 9  147 237 
+                                                                                

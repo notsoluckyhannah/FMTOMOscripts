@@ -1,0 +1,12 @@
+ 2013  3 7 1816  0.0 L                       SDD                               1
+ ACTION:UP  13-04-03 20:44 OP:rp   STATUS:               ID:20130307181600     I
+ OLDACT:ARG 13-03-07 23:22 OP:isu  STATUS:               ID:20130307181600     3
+ 201303071816.mseed                                                            6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ HATO EZ EP     C 181644.054   47                                               
+ PCDR BZ EP     C 181652.930   44                                               
+ PCDR BE ES     C 1817 6.738                                                    
+ HATO EZ ES     C 181653.588                                                    
+ HATO EZ  IAML    181655.412         8.9 0.16                                   
+ PCDR BE  IAML    1817 0.877        60.8 1.25                                   
+                                                                                

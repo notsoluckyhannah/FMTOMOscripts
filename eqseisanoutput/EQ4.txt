@@ -1,0 +1,13 @@
+ 2013  228 0611  3.4 L  19.072 -69.004  0.0  SDD  3 1.6 1.0LSDD 2.8CSDD        1
+ GAP=147        3.85      24.7    18.4 60.0 -0.1477E+02  0.3510E+03  0.9587E+03E
+ 2013  228 0611  3.425  19.07206  -69.00407    0.033  1.617                    H
+ ACTION:UP  13-04-02 00:53 OP:NJM  STATUS:               ID:20130228061000     I
+ OLDACT:ARG 13-02-28 12:44 OP:isu  STATUS:               ID:20130228061000     3
+ 201302280610.mseed                                                            6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ SMDR BZ EP     D  611 9.297   22                         46    0.4010 30.9 321 
+ HATO EZ EP     D  611 9.395   81                         46   -2.6710 50.7 232 
+ HATO EZ ES     C  61120.307                              46    1.6710 50.7 232 
+ HATO EZ  IAML     61120.579        12.0 0.20                          50.7 232 
+ AGPR BZ EP     C  61133.871   33                         35    0.6010  210 108 
+                                                                                

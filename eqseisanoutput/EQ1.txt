@@ -1,0 +1,12 @@
+ 2013  415 0603 28.6 R  19.627 -72.873 78.8  SDD  3 0.0 3.6CSDD                1
+ GAP=195        0.34      11.1     3.2 27.2  0.2423E+02 -0.5242E+02 -0.2947E+03E
+ 2013  415 0603 28.595  19.62710  -72.87305   78.764  0.004                    H
+ ACTION:UP  13-04-15 14:18 OP:rp   STATUS:               ID:20130415060200     I
+ OLDACT:ARG 13-04-15 14:00 OP:isu  STATUS:               ID:20130415060200     3
+ 201304150603.mseed                                                            6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ LGNH BZ EPg    D  6 348.291   88                        119    0.0110  127 167 
+ LGNH BN ESg       6 4 3.243                             119   -0.0110  127 167 
+ SDDR BZ EPg    C  6 354.631   61                        111    0.0010  181 113 
+ GTBY BZ EPg    D  6 4 1.204   97                        106    0.0010  237 278 
+                                                                                

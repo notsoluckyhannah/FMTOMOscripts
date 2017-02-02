@@ -1,0 +1,12 @@
+ 2013 1229 2226  0.0 L                                                         1
+ ACTION:ARG 14-01-03 10:46 OP:isu  STATUS:               ID:20131229222600     I
+ 201312292227.mseed                                                            6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ PCDR BZ EP     D 222748.777   97                                               
+ PCDR BE ES     D 222757.474                                                    
+ AGPR BN ES     D 222812.825                                                    
+ CRPR BZ EP     C 2228 0.079  110                                               
+ AOPR BZ EP     C 2228 2.045   99                                               
+ SMDR BE ES     C 222814.111                                                    
+ CELP SZ EP     D 2228 5.819   94                                               
+                                                                                
